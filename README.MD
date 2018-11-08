@@ -8,9 +8,9 @@ REPORT_DIR='report_result'
 #指定处理报告目录
 ZIP_PATH='test123'
 
-#报告生成8月份 -9月份的
+#报告生成8月份 -12月份的
 MONTH_START=8
-MONTN_END=12
+MONTH_END=12
 ```
 
 ## 说明
