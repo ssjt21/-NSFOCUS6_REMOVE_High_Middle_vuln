@@ -27,7 +27,7 @@ ZIP_PATH='test123'
 
 #报告生成8月份 -9月份的
 MONTH_START=8
-MONTN_END=12
+MONTH_END=12
 
 def getTime(ip_num, scan_month):
     timeStr = """
@@ -840,7 +840,7 @@ def run():
     # zip_lst=['test123/456.zip']
     for month in xrange(MONTH_START,MONTH_END+1):
         for filename in zip_lst:
-            print filename
+            # print filename
             handleZip(filename,month)
 
 
