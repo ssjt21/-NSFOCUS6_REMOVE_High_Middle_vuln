@@ -4,7 +4,7 @@
 @author:随时静听
 @file: ChangeNsfocusReport.py
 @time: 2018/11/07
-@email:wang_di@topsec.com.cn
+
 """
 
 import os
